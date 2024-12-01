@@ -23,3 +23,7 @@ layout:
 Bem vindo ao meu wiki pessoal! Aqui você encontrará conteúdo didático sobre assuntos como música, matemática, física, programação e outros assuntos de meu interesse.
 
 Explore à vontade!
+
+* [Github](https://github.com/nicolasmafra)
+* [Linkedin](https://www.linkedin.com/in/nicolas-mafra-0b75ba137)
+
